@@ -1,0 +1,45 @@
+#media-intro{
+  padding-top: 50px;
+  padding-left: 10px;
+  padding-right: 20px;
+  max-width: 830px;
+  text-align: left;
+}
+
+/* body{
+  background-color: #FFDE03;
+} */
+
+a{
+  color: #00b686
+}
+
+#general-info{
+  margin-top: 100px;
+}
+
+#general-info h5{
+  color: #00cbcc;
+}
+
+#slyce-work{
+  padding-top: 20px;
+}
+
+#main-nav-bar{
+  background-color: #6200EE;
+}
+
+#main-nav-bar a{
+  color: white;
+}
+
+/* .footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+} */
